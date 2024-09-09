@@ -49,8 +49,10 @@ li {
   padding-bottom: 5px;
 }
 section {
-  background-color: grey;
+  background-color: rgb(255, 237, 237);
   box-shadow: 8px 8px 10px;
+  padding-inline: 50px;
+  text-shadow: 2px 2px 2px #db0038;
 }
 .star {
   color: #f4b400;
