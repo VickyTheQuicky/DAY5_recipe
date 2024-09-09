@@ -58,3 +58,10 @@ section {
   color: #f4b400;
   size: 25px;
 }
+footer {
+  text-align: center;
+}
+.lastone {
+  text-align: center;
+  text-decoration: wavy;
+}
